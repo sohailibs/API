@@ -1,0 +1,15 @@
+E:\DPSworkFolder\API\DPS\BOL\bin\Debug\BOL.dll
+E:\DPSworkFolder\API\DPS\BOL\bin\Debug\BOL.pdb
+E:\DPSworkFolder\API\DPS\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+E:\DPSworkFolder\API\DPS\BOL\obj\Debug\BOL.dll
+E:\DPSworkFolder\API\DPS\BOL\obj\Debug\BOL.pdb
+E:\DPSworkFolder\API\DPSapi\BOL\bin\Debug\BOL.dll
+E:\DPSworkFolder\API\DPSapi\BOL\bin\Debug\BOL.pdb
+E:\DPSworkFolder\API\DPSapi\BOL\obj\Debug\BOL.dll
+E:\DPSworkFolder\API\DPSapi\BOL\obj\Debug\BOL.pdb
+E:\DPSapi-master\BOL\bin\Debug\BOL.dll
+E:\DPSapi-master\BOL\bin\Debug\BOL.pdb
+E:\DPSapi-master\BOL\obj\Debug\BOL.csproj.AssemblyReference.cache
+E:\DPSapi-master\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+E:\DPSapi-master\BOL\obj\Debug\BOL.dll
+E:\DPSapi-master\BOL\obj\Debug\BOL.pdb
